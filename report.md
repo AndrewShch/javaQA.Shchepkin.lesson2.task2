@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Программа считает с погрешностью](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task2/issues/1)
+* [Программа считает уравнение с дробными числами с погрешностью](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task2/issues/1)
 
 ## Описание процесса тестирования
 
