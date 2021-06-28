@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Программа считает уравнение с дробными числами с погрешностью](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task2/issues/1)
+* [Неверное значение в итоговой переменной при расчете бонуса клиентам](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task2/issues/1)
 
 ## Описание процесса тестирования
 
