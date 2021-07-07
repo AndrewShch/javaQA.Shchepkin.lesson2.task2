@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Неверное значение в итоговой переменной при расчете бонуса клиентам](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task2/issues/1)
+* [Неверно рассчитывается бонус клиента](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task2/issues/1)
 
 ## Описание процесса тестирования
 
